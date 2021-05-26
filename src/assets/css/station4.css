@@ -1,14 +1,14 @@
 .card {
-  background-color: #fff;
+  background-color: #ffffff;
   padding: 50px;
 }
 
 body {
-  color: #C4C4C4;
+  background-color: #C4C4C4;
 }
 
 header {
-  color: #ffffff;
+  background-color: #ffffff;;
 }
 
 img {
@@ -28,5 +28,5 @@ img {
 }
 
 footer {
-  color: #ffffff;
+  background-color: #ffffff;
 }
