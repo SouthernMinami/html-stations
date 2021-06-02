@@ -4,7 +4,7 @@ async function getData() {
     return await result
 }
 
-function test() {
+async function test() {
   return new Promise (function(resolve) {
     setTimeout(function() {
       resolve('test')
